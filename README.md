@@ -8,7 +8,7 @@
 - Web dashboard to view scan results and historical trends.
 - Docker + GitHub Actions for CI.
 
-## Quick start (developer-friendly)
+## Quick start (Developer-friendly)
 1. Backend (Python):
    - Create venv: `python -m venv .venv && source .venv/bin/activate`
    - Install: `pip install -r backend/requirements.txt`
