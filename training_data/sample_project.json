@@ -1,0 +1,17 @@
+{
+  "repo": "sample_project",
+  "result": {
+    "summary": "Found 2 issues.",
+    "score": 90,
+    "issues": [
+      {
+        "issue": "Hardcoded password",
+        "path": "sample_project/insecure.js"
+      },
+      {
+        "issue": "Use of eval",
+        "path": "sample_project/insecure.js"
+      }
+    ]
+  }
+}
